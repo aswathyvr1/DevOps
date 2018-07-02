@@ -1,5 +1,6 @@
 
 1.	Create a directory “Devops”.
+mkdir devops
 2.	Create a file “LinuxCommands” in “Devops” directory.
 3.	Find and list the path of the file.
 4.	Create another Directory, “LinuxOS”
